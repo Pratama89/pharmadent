@@ -1,5 +1,5 @@
 :root {
-  --primary: #d81b1b;
+  --primary: #fc940c;
   --bg: #010101;
 }
 
@@ -39,7 +39,7 @@ body{
 .navbar .navbar-logo{
  font-size: 2rem;
  font-weight: 700;
- color: #fff; 
+ color: #3104fa; 
 }
 
 .navbar .navbar-logo span{
